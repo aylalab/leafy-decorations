@@ -22,10 +22,18 @@ html {
 .nav a {
   text-decoration: none;
   color: #fff;
+  background-color: #467366;
+  border-radius: 8px;
+  border: 3px solid #2d5a4d;
 }
 
 .nav a:hover {
-
+  background-color: #fff;
+  color: #145b1d;
+  background-image: url("../images/leaf-icon.svg");
+  background-repeat: no-repeat;
+  background-position: .75em center;
+  background-size: 3em auto;
 }
 
 .banner {
